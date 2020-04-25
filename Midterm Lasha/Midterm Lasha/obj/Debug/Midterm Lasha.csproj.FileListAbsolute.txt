@@ -4,3 +4,6 @@ C:\Users\lasha\Desktop\C#\Midterm Lasha\Midterm Lasha\bin\Debug\Midterm Lasha.pd
 C:\Users\lasha\Desktop\C#\Midterm Lasha\Midterm Lasha\obj\Debug\Midterm Lasha.csprojResolveAssemblyReference.cache
 C:\Users\lasha\Desktop\C#\Midterm Lasha\Midterm Lasha\obj\Debug\Midterm Lasha.exe
 C:\Users\lasha\Desktop\C#\Midterm Lasha\Midterm Lasha\obj\Debug\Midterm Lasha.pdb
+C:\Users\lasha\Desktop\C#\C_Sharp\Midterm Lasha\Midterm Lasha\bin\Debug\Midterm Lasha.exe.config
+C:\Users\lasha\Desktop\C#\C_Sharp\Midterm Lasha\Midterm Lasha\obj\Debug\Midterm Lasha.exe
+C:\Users\lasha\Desktop\C#\C_Sharp\Midterm Lasha\Midterm Lasha\obj\Debug\Midterm Lasha.pdb
