@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace _9._4._1
 {
-    interface ITriangle
+    public interface ITriangle
     {
         int perimeter(int a, int b, int c);
     }
-    class calc : Baza, ITriangle
+    public class calc : Baza, ITriangle
     {
         public int perimeter(int a, int b, int c)
         {
             return a + b + c;
         }
+
     }
 }

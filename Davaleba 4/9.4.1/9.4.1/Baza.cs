@@ -10,8 +10,8 @@ namespace _9._4._1
     {
         public double area(int a, int b, int c)
         {
-            int perimeter = a + b + c;
-            double p = perimeter / 2;
+            int perim = a + b + c;
+            double p = perim / 2;
             return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
         }
     }
