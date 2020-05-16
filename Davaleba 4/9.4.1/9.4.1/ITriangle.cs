@@ -16,6 +16,5 @@ namespace _9._4._1
         {
             return a + b + c;
         }
-
     }
 }

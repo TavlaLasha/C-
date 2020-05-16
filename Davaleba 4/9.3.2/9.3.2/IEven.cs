@@ -12,10 +12,16 @@ namespace _9._3._2
     }
     class evenGive : IEven
     {
-        private int X;
+        private int x;
         public int setNum
         {
-            set { if (value % 2 == 0) X = value; }
+            set
+            {
+                if (value % 2 == 0)
+                    x = value;
+                else
+                    throw new ArgumentException("Sheyvanili ricxvi unda iyos luwi");
+            }
         }
     }
 }
