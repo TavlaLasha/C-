@@ -8,16 +8,21 @@ namespace _6._3._1
 {
     class Kvadrati_1
     {
-        double area, perimeter;
+        public float x;
+        public double area, perimeter;
 
-        public Kvadrati_1()
+        public Kvadrati_1(float x)
         {
-
+            this.x = x;
         }
     }
     class Kvadrati_2
     {
         double area, perimeter;
-        
+
+        public void calculate()
+        {
+
+        }
     }
 }
