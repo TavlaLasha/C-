@@ -38,7 +38,7 @@ namespace Midterm
             return s.ToString();
         }
 
-        public override void SearchByYear(object[] obj, int sawyisi, int bolo)
+        public override void SearchByYear(object obj, int sawyisi, int bolo)
         {
             throw new NotImplementedException();
         }

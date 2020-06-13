@@ -8,16 +8,16 @@ namespace Midterm
 {
     class SearchMechanism : Gamocema
     {
-        public override void SearchByYear(object[] obj, int sawyisi, int bolo)
+        public override void SearchByYear(object obj, int sawyisi, int bolo)
         {
             //Ver avamushave
-            /*foreach(object i in obj)
-            {
-                if (i.gamocemis_weli > bolo && i.gamocemis_weli< sawyisi)
-                {
-                    i.PrintInfo();
-                }
-            }*/
+            //foreach (var i in obj)
+            //{
+            //    if (i.gamocemis_weli > bolo && i.gamocemis_weli < sawyisi)
+            //    {
+            //        i.PrintInfo();
+            //    }
+            //}
         }
         public override string PrintInfo()
         {

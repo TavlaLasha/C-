@@ -15,6 +15,6 @@ namespace Midterm
         public int gverdebis_raodenoba { get; set; }
 
         public abstract string PrintInfo();
-        public abstract void SearchByYear(object[] obj, int sawyisi, int bolo);
+        public abstract void SearchByYear(object obj, int sawyisi, int bolo);
     }
 }
